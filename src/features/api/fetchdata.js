@@ -13,13 +13,12 @@ import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 //       offset: '0'
 //     },
 //     headers: {
-//       'X-RapidAPI-Key': '3fe04acf34msh49d3a43043ebcbfp12e160jsnf9f32d3630b5',
-//       'X-RapidAPI-Host': 'coinranking1.p.rapidapi.com'
+//      
 //     }
 //   };
 
 const headerOptions = {
-  "X-RapidAPI-Key": "3fe04acf34msh49d3a43043ebcbfp12e160jsnf9f32d3630b5",
+  "X-RapidAPI-Key": "key",
   "X-RapidAPI-Host": "coinranking1.p.rapidapi.com",
 };
 
